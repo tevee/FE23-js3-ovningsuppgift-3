@@ -1,6 +1,6 @@
 import './App.css';
-import ChatBox from './components/ChatBox.js';
-import MessageList from './components/MessageList.js';
+import ChatBox from './components/ChatBox.jsx';
+import MessageList from './components/MessageList.jsx';
 import {useState} from 'react';
 
 function App() {
